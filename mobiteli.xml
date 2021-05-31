@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<mobiteli>
+   <s21>
+        <naziv>Samsung Galaxy S21 5G</naziv>
+        <cpu>Exynos 2100</cpu>
+        <ram>8GB</ram>
+        <ekran>6.2" AMOLED</ekran>
+        <kamera>64MP</kamera>
+        <baterija>4000mAh</baterija>
+        <cijena>$800</cijena> 
+    </s21>
+    <s21plus>
+        <naziv>Samsung Galaxy S21+ 5G</naziv>
+        <cpu>Exynos 2100</cpu>
+        <ram>8GB</ram>
+        <ekran>6.7" AMOLED</ekran>
+        <kamera>64MP</kamera>
+        <baterija>4800mAh</baterija>
+        <cijena>$950</cijena>
+    </s21plus>
+    <s21ultra>
+        <naziv>Samsung Galaxy S21 Ultra 5G</naziv>
+        <cpu>Exynos 2100</cpu>
+        <ram>12GB</ram>
+        <ekran>6.7" AMOLED</ekran>
+        <kamera>108MP</kamera>
+        <baterija>5000mAh</baterija>
+        <cijena>$1200</cijena>
+    </s21ultra>
+
+    <mi11lite>
+        <naziv>Xiaomi Mi 11 Lite</naziv>
+        <cpu>Snapdragon 732G</cpu>
+        <ram>6GB</ram>
+        <ekran>6.55" AMOLED</ekran>
+        <kamera>64MP</kamera>
+        <baterija>4250mAh</baterija>
+        <cijena>$310</cijena>
+    </mi11lite>
+    <mi11>
+        <naziv>Xiaomi Mi 11</naziv>
+        <cpu>Snapdragon 888</cpu>
+        <ram>8GB</ram>
+        <ekran>6.81" OLED</ekran>
+        <kamera>108MP</kamera>
+        <baterija>4600mAh</baterija>
+        <cijena>$700</cijena>
+    </mi11>
+    <mi11ultra>
+        <naziv>Xiaomi Mi 11 Ultra</naziv>
+        <cpu>Snapdragon 888</cpu>
+        <ram>12GB</ram>
+        <ekran>6.81" OLED</ekran>
+        <kamera>50MP</kamera>
+        <baterija>5000mAh</baterija>
+        <cijena>$1300</cijena>
+    </mi11ultra>
+
+    <iphone12>
+        <naziv>iPhone 12</naziv>
+        <cpu>A14 Bionic</cpu>
+        <ram>4GB</ram>
+        <ekran>6.1" OLED</ekran>
+        <kamera>12MP</kamera>
+        <baterija>2815mAh</baterija>
+        <cijena>$800</cijena>
+    </iphone12>
+    <iphone12pro>
+        <naziv>iPhone 12 Pro</naziv>
+        <cpu>A14 Bionic</cpu>
+        <ram>6GB</ram>
+        <ekran>6.1" OLED</ekran>
+        <kamera>12MP</kamera>
+        <baterija>2815mAh</baterija>
+        <cijena>$1000</cijena>
+    </iphone12pro>
+    <iphone12promax>
+        <naziv>iPhone 12 Pro Max</naziv>
+        <cpu>A14 Bionic</cpu>
+        <ram>6GB</ram>
+        <ekran>6.7" OLED</ekran>
+        <kamera>12MP</kamera>
+        <baterija>3687mAh</baterija>
+        <cijena>$1200</cijena>
+    </iphone12promax>
+
+</mobiteli>
